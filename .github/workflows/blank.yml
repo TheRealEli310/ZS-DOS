@@ -25,3 +25,4 @@ jobs:
     # Runs a single command using the runners shell
     - name: Run ZS-DOS
       run: ZS-DOS.bat
+      shell: cmd
